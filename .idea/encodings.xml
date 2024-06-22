@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpc-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step1-socket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step1-socket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step10-RPC-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step10-RPC-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step2-netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step2-netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step3-invoke/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step3-invoke/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step4-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step4-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step5-registry-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step5-registry-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step6-router/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step6-router/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step7-tolerant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step7-tolerant/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step8-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step8-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step9-spi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/step9-spi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stest-provider/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

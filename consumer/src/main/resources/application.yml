@@ -1,0 +1,8 @@
+rpc:
+  registry:
+    name: zookeeper
+    host: 127.0.0.1:2181
+  proxy: cglib
+  serialization: jdk
+server:
+  port: 8888

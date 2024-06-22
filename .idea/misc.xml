@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/step1-socket/pom.xml" />
+        <option value="$PROJECT_DIR$/step2-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/step3-invoke/pom.xml" />
+        <option value="$PROJECT_DIR$/step4-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/step5-registry-center/pom.xml" />
+        <option value="$PROJECT_DIR$/step6-router/pom.xml" />
+        <option value="$PROJECT_DIR$/step7-tolerant/pom.xml" />
+        <option value="$PROJECT_DIR$/step8-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/step9-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/interface/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/step10-RPC-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/stest-provider/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

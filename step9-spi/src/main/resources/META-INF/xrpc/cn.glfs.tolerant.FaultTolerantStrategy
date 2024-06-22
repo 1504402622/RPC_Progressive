@@ -1,0 +1,2 @@
+failover=cn.glfs.tolerant.FailoverFaultTolerantStrategy
+failFast=cn.glfs.tolerant.FailFastFaultTolerantStrategy

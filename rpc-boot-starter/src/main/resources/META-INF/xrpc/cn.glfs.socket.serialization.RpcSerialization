@@ -1,0 +1,4 @@
+json=cn.glfs.socket.serialization.fastjson.JsonSerialization
+jdk=cn.glfs.socket.serialization.jdk.JdkSerialization
+kryo=cn.glfs.socket.serialization.kryo.KryoSerialization
+hessian=cn.glfs.socket.serialization.hessian.HessianSerialization
